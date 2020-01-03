@@ -19,7 +19,7 @@
     "Autoreload"
   ],
   "author": "Mirco Kraenz",
-  "license": "MIT",
+  "license": "0BSD",
   "devDependencies": {
     "@types/react": "^16.9.17",
     "@types/react-dom": "^16.9.4",
