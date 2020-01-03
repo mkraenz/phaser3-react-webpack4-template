@@ -1,0 +1,29 @@
+{
+  "name": "helpme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"not define\"",
+    "dev:compile": "webpack --mode development --watch",
+    "dev": "webpack-dev-server --mode development --open --no-inline"
+  },
+  "keywords": [],
+  "author": "Mirco",
+  "devDependencies": {
+    "@types/react": "^16.9.17",
+    "@types/react-dom": "^16.9.4",
+    "expose-loader": "^0.7.5",
+    "source-map-loader": "^0.2.4",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.4",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {
+    "phaser": "^3.21.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "webpack-dev-server": "^3.10.1"
+  }
+}

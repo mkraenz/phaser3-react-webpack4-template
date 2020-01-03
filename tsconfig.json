@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "target": "es6",
+    "jsx": "react",
+    "typeRoots": ["./node_modules/@types", "./node_modules/phaser/types"],
+    "types": ["phaser"]
+  }
+}
