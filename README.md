@@ -7,8 +7,12 @@ If you like it, please leave a star.
 ## Installation and Usage
 
 ```bash
+# for npm user
+npm install
 npm run dev
+
 # or for yarn users
+yarn install
 yarn dev
 ```
 
