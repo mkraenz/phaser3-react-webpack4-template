@@ -1,6 +1,6 @@
 import { Game } from "phaser";
 import React, { useEffect } from "react";
-import PlayGame from "../phaser/scene";
+import PlayGame from "../phaser/MyScene";
 
 const GAME_CONTAINER_ID = "game";
 

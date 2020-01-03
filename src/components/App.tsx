@@ -1,5 +1,5 @@
 import * as React from "react";
-import MyGame from "./Game";
+import MyGame from "./MyGame";
 
 export interface Props {
   compiler: string;

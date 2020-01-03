@@ -1,5 +1,5 @@
 {
-  "name": "helpme",
+  "name": "phaser3-react-webpack-template",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,8 +8,18 @@
     "dev:compile": "webpack --mode development --watch",
     "dev": "webpack-dev-server --mode development --open --no-inline"
   },
-  "keywords": [],
-  "author": "Mirco",
+  "keywords": [
+    "TypeScript",
+    "React",
+    "Phaser 3",
+    "Webpack 4",
+    "Starter",
+    "Boilerplate",
+    "Template",
+    "Autoreload"
+  ],
+  "author": "Mirco Kraenz",
+  "license": "MIT",
   "devDependencies": {
     "@types/react": "^16.9.17",
     "@types/react-dom": "^16.9.4",
@@ -18,12 +28,12 @@
     "ts-loader": "^6.2.1",
     "typescript": "^3.7.4",
     "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1"
   },
   "dependencies": {
     "phaser": "^3.21.0",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0",
-    "webpack-dev-server": "^3.10.1"
+    "react-dom": "^16.12.0"
   }
 }
