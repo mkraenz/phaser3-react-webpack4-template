@@ -2,6 +2,8 @@
 
 FREE TO USE. NO attribution needed.
 
+If you like it, please leave a star.
+
 ## Installation and Usage
 
 ```bash
